@@ -1,0 +1,9 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Temp audio generated during runs
+temp_audio.wav
+*.wav
+*.mp3
